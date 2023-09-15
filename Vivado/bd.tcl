@@ -7,7 +7,7 @@
 # IP Integrator Tcl commands easier.
 ################################################################
 
-# Update tp 2022.2
+# Update to 2022.2
 
 namespace eval _tcl {
 proc get_script_folder {} {
